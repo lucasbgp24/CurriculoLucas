@@ -1,3 +1,3 @@
 # CurriculoLucas
 
-https://curriculo-lucas-smoky.vercel.app/
+https://curriculo-lucas-oliveira.vercel.app/
